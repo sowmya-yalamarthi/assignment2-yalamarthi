@@ -21,3 +21,16 @@ It is a combination of Indian Mirch spice and chicken ,I always have a ***cravin
 * chilli powder
 
 [link of AboutMe.md](AboutMe.md)
+
+***
+
+# places to visit
+
+The list lo places where a visitor can go for an amount time and money needed to visit.
+
+|location|number of hours|amount of money|
+|---------|--------------|---------------|
+|new york|24|$1000|
+|miami|48|$1500|
+|niagara falls|36|$2000|
+|disney world|24|$1800|
