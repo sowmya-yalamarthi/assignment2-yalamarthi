@@ -4,6 +4,8 @@ It is a combination of Indian Mirch spice and chicken ,I always have a ***cravin
 
 ***
 
+# Ingredients
+
 1. chicken
 2. spices
     1. chilli pepper
@@ -17,3 +19,5 @@ It is a combination of Indian Mirch spice and chicken ,I always have a ***cravin
     * tomato sauce
 * salt
 * chilli powder
+
+[link of AboutMe.md](AboutMe.md)
