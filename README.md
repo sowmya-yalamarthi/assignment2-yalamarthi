@@ -9,4 +9,11 @@ It is a combination of Indian Mirch spice and chicken ,I always have a ***cravin
     1. chilli pepper
     2. bay leaf
     3. basil
-3. chilli sause    
+3. oil
+
+* sauces
+    * chilli sauce
+    * soya sauce
+    * tomato sauce
+* salt
+* chilli powder
