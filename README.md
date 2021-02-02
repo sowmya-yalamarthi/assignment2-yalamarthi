@@ -40,5 +40,5 @@ The list lo places where a visitor can go for an amount time and money needed to
 # Quotes
 
 The true sign of intelligence is not knowledge,but imagination -*Albert Einstein* </br>
-Opportunities is missed by most of the people because it is dresses in overalls and looks like work -*Thomas Edison8 </br>
+Opportunities is missed by most of the people because it is dresses in overalls and looks like work -*Thomas Edison* </br>
 People are just happy as they make up their minds to be -*Abraham Lincoln*</br>
