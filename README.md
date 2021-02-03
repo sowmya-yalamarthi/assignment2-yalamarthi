@@ -39,11 +39,14 @@ The list lo places where a visitor can go for an amount time and money needed to
 
 # Images of the locations
 
-[newyork image](newyork.jpg)
-[miami image](miami.png)
-[niagara falls image](niagarafalls.jpg)
-[disney world image](disneyworld.jpg)
+|location|      image       |
+|--------|     -------      |
+|newyork|[newyork image](newyork.jpg)|
+|miami  |[miami image](miami.png)|
+|niagarafalls|[niagara falls image](niagarafalls.jpg)|
+|disneyworld|[disney world image](disneyworld.jpg)|
 
+***
 
 # Quotes
 
