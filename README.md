@@ -44,7 +44,7 @@ The list lo places where a visitor can go for an amount time and money needed to
 |newyork|[newyork image](newyork.jpg)|
 |miami  |[miami image](miami.png)|
 |niagarafalls|[niagara falls image](niagarafalls.jpg)|
-|disneyworld|[disney world image}(disneyworld.jpg)|
+|disneyworld|[disney world image](disneyworld.jpg)|
 
 
 # Quotes
